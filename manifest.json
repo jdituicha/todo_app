@@ -1,11 +1,11 @@
 {
     "name": "todi",
     "short_name": "todi",
-    "description": "Mi aplicación de gestión de tareas personal para todo.txt",
+    "description": "Mi aplicación de gestión de tareas personal de todo.txt",
     "start_url": "./",
     "display": "standalone",
     "background_color": "#f8f9fa",
-    "theme_color": "#212529",
+    "theme_color": "#f8f9fa",
     "icons": [
       {
         "src": "assets/icons/icon-192x192.png",
@@ -25,3 +25,4 @@
       }
     ]
   }
+

@@ -1,10 +1,10 @@
 {
-    "name": "Todo App JD",
-    "short_name": "Todo JD",
-    "description": "Tu aplicación de gestión de tareas personal estilo todo.txt",
+    "name": "todi",
+    "short_name": "todi",
+    "description": "Mi aplicación de gestión de tareas personal para todo.txt",
     "start_url": "./",
     "display": "standalone",
-    "background_color": "#ffffff",
+    "background_color": "#f8f9fa",
     "theme_color": "#212529",
     "icons": [
       {

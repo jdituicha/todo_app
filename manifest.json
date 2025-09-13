@@ -3,8 +3,8 @@
   "short_name": "todi",
   "start_url": ".",
   "display": "standalone",
-  "background_color": "#212529",
-  "theme_color": "#212529",
+  "background_color": "#f8f9fa",
+  "theme_color": "#f8f9fa",
   "description": "Una aplicación de lista de tareas simple y efectiva.",
   "icons": [
     {

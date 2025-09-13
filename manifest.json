@@ -1,27 +1,27 @@
 {
-    "name": "todi",
-    "short_name": "todi",
-    "description": "Mi aplicación de gestión de tareas personal de todo.txt",
-    "start_url": "./",
-    "display": "standalone",
-    "background_color": "#f8f9fa",
-    "theme_color": "#f8f9fa",
-    "icons": [
-      {
-        "src": "assets/icons/icon-192x192.png",
-        "sizes": "192x192",
-        "type": "image/png"
-      },
-      {
-        "src": "assets/icons/icon-512x512.png",
-        "sizes": "512x512",
-        "type": "image/png"
-      },
-      {
-        "src": "assets/icons/maskable_icon.png",
-        "sizes": "192x192",
-        "type": "image/png",
-        "purpose": "maskable"
-      }
-    ]
-  }
+  "name": "todi",
+  "short_name": "todi",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#212529",
+  "theme_color": "#212529",
+  "description": "Una aplicación de lista de tareas simple y efectiva.",
+  "icons": [
+    {
+      "src": "./assets/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/icons/maskable_icon.png",
+      "sizes": "196x196",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

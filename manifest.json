@@ -29,7 +29,7 @@
       "name": "Nueva Tarea",
       "short_name": "Nueva Tarea",
       "description": "Agrega una nueva tarea rápidamente",
-      "url": "https://todo.jditortul.com.ar/task_new.html",
+      "url": "https://todo.jditortul.com.ar/?action=new-task",
       "icons": [
         {
           "src": "assets/icons/icon-192x192.png",
